@@ -1,0 +1,8 @@
+pandas>=2.0
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+pyarrow>=14.0
+ipython-sql>=0.5
+prettytable>=3.0
+jupyter>=1.0
+ 
