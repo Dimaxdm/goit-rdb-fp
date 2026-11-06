@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Environment / secrets
+.env
+.env.*
+ 
+# PostgreSQL local dumps and logs
+*.dump
+*.backup
+*.log
+ 
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+ 
+# OS
+.DS_Store
+Thumbs.db
